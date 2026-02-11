@@ -6,7 +6,7 @@ from scipy.stats import norm
 
 st.set_page_config(page_title="CLT Playground", layout="centered")
 
-st.title("Central Limit Theorem (CLT) Playground")
+st.title("Central Limit Theorem (CLT) Interactive Playground")
 st.write(
     "Pick a distribution, then watch how the distribution of the sample mean becomes approximately normal as sample size grows."
 )
